@@ -13,7 +13,7 @@ This project was part of the **Fundamentals of Digital System Design** course co
 Through this project, I gained hands-on experience with:
 - **SystemVerilog HDL** for FPGA design.
 - **FPGA Synthesis and Analysis** using **Quartus Prime**.
--Understanding how an **FPGA board** works, **FPGA-based designs** function, and integrate with hardware.
+- Understanding how an **FPGA board** works, **FPGA-based designs** function, and integrate with hardware.
 ## Tools Used:
 - **SystemVerilog** for design and implementation.
 - **Quartus Prime** for synthesis and analysis.
